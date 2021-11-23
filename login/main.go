@@ -44,7 +44,7 @@ func main() {
 		fmt.Println("[ - ] Usages: -> ./main -p password")
 		os.Exit(1)
 	}
-	if *flagSt == "TTVsasy301" {
+	if *flagSt == "sasad1" {
 		fmt.Println("[ + ] password came back true, loading script")
 		time.Sleep(2 * time.Second)
 		CallClear()
