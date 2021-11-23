@@ -1,2 +1,1 @@
-912408329714827355
-911135341249986601
+id of the people you want to send this to, make sure after every ID you place a new one on a new line
