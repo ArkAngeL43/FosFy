@@ -1,1 +1,2 @@
-OTExMTMzNDIxNDA3OTg1NzI1.YZvQ9w.qOf7XNQ7ybWDMw_7JHE33cuoSJY
+discord authentication token here
+| erase this entire file make it empty, then place your token 
